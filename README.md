@@ -1,6 +1,4 @@
-Here’s a **GitHub-ready** `README.md` file for your repository. Just copy and paste it directly into your GitHub repository.  
 
----
 
 # **Fine-Tune Falcon-7B Instruct on Custom PDF Data**  
 > **Created by**: Priyadarshi Utpal  
@@ -100,4 +98,3 @@ This project is open-source and available under the **MIT License**.
 
 ---
 
-Now just **copy and paste this into your GitHub README**! 🎉
